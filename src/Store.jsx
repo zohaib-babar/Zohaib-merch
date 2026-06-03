@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 // ─── CONSTANTS ───────────────────────────────────────────────────────────────
-const ADMIN_CREDS = { username: "admin", password: "Password3388", name: "Admin" };
+const ADMIN_CREDS = { username: "admin", password: "Zohaib3388", name: "Admin" };
 
 const INITIAL_PRODUCTS = [
   { id: 1, name: "Classic Black Tee", cat: "tshirt", price: 1299, stock: 45, emoji: "👕", badge: "Popular", desc: "Premium 100% cotton, ultra-soft and breathable. Perfect for everyday wear.", colors: ["#1a1a2e", "#e94560", "#ffffff"], sizes: ["S", "M", "L", "XL", "XXL"] },
