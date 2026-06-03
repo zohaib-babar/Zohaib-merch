@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useCallback } from "react";
 
 // ─── CONSTANTS ───────────────────────────────────────────────────────────────
 const ADMIN_CREDS = { username: "admin", password: "Zohaib3388", name: "Admin" };
