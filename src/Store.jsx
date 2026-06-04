@@ -155,7 +155,7 @@ textarea.form-control{resize:vertical;}
 .admin-section{background:var(--surface);border-radius:var(--radius);border:1px solid var(--border);overflow:hidden;margin-bottom:16px;}
 .admin-section-head{padding:14px 16px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;}
 .admin-section-head h3{font-size:15px;font-weight:600;}
-.table-wrap{overflow-x:auto;}
+.table-wrap{overflow-x:auto;}  
 table{width:100%;border-collapse:collapse;font-size:13px;}
 th{background:var(--bg);padding:10px 14px;text-align:left;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--muted);}
 td{padding:12px 14px;border-top:1px solid var(--border);}
